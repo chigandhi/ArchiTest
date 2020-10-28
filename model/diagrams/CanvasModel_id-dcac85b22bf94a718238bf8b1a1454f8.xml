@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Customer Journey Canvas "
+    name="Customer Journey Canvas as a Test"
     id="id-dcac85b22bf94a718238bf8b1a1454f8"
     documentation="The Canvas has been developed to support you when designing services.&#xD;&#xA;&#xD;&#xA;You can use it not only for yourself to get a quick overview of certain service processes, but also with providers for a self-portrayal and with customers and other stakeholders to explore and evaluate services.&#xD;&#xA;&#xD;&#xA;Concept and design: Marc Stickdorn &amp; Jason Schneider - inspired by the Business Model Canvas - http://www.thisisservicedesignthinking.com &#xD;&#xA;&#xD;&#xA;This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/"
     hintTitle="Customer Journey Canvas"
@@ -623,7 +623,7 @@
       id="id-5a7de898307d4ec7b67aea78881813a9"
       textAlignment="1"
       fillColor="#ffffff"
-      content="(add here)"
+      content="Old Man"
       borderColor="#c0c0c0"
       textPosition="3">
     <bounds
